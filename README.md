@@ -37,26 +37,26 @@ The project is organized into the following folders:
 
 - **`audio_model/`**: Includes Python programs (`cnn-model.py`, `inf.py`, `label.py`) for training and inference using a CNN model. The code here is responsible for the classification of audio in Stage 1.
 
-- **`audio_music/`**: Contains code for annotating audio, particularly for Stage 2 of the project. The `audio_annotation.py` script is used for categorizing audio files into the necessary classes for speech detection.
+- **`audio_music`**: Contains code for annotating audio, particularly for Stage 2 of the project. The `audio_annotation.py` script is used for categorizing audio files into the necessary classes for speech detection.
 
-- **`audio_record/`**: Houses scripts for audio recording and processing:
+- **`audio_record`**: Houses scripts for audio recording and processing:
   - `audio_rec.py`: Records audio.
   - `clip_audio.py`: Clips audio files.
   - `convert_video_to_wav.py`: Extracts audio from video files and converts them to WAV format.
 
-- **`combine_logic/`**: Implements logic for combining class detections:
+- **`combine_logic`**: Implements logic for combining class detections:
   - Level 1 detects whether the engine is on or off.
   - Level 2 detects whether a person is talking inside the car and categorizes the audio (e.g., male, female, music, no sound).
 
-- **`H_file/`**: Stores all models used in the project.
+- **`H_file`**: Stores all models used in the project.
 
-- **`label_encoder/`**: Contains all the label encodings used across the project.
+- **`label_encoder`**: Contains all the label encodings used across the project.
 
-- **`MetaData codes/`**: Scripts for modifying metadata. Each script is designed to handle specific modifications to the metadata used in the project.
+- **`MetaData codes`**: Scripts for modifying metadata. Each script is designed to handle specific modifications to the metadata used in the project.
 
-- **`Real-time Prediction/`**: Contains scripts for real-time data prediction. These scripts are designed to run on devices like Jetson Nano, displaying results in various formats such as pie charts and tables.
+- **`Real-time Prediction`**: Contains scripts for real-time data prediction. These scripts are designed to run on devices like Jetson Nano, displaying results in various formats such as pie charts and tables.
 
-- **`wav_files_codes/`**: Handles WAV file operations, including conversion from MP3 to WAV, MP4 to WAV, etc.
+- **`wav_files_codes`**: Handles WAV file operations, including conversion from MP3 to WAV, MP4 to WAV, etc.
 
 ## Requirements
 
@@ -85,8 +85,8 @@ git checkout master
 To get started, clone the repository:
 
 ```bash
-git clone https://github.com/samarth-shinde/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/SamarthShinde/Audio_Classification.git
+cd Audio_Classification
 git checkout master
 ```
 
@@ -102,7 +102,7 @@ The datasets include audio files used for training and testing the models.
 
 ### Running the Models
 
-To train or test the models, navigate to the `audio_model/` directory and run the appropriate scripts. Detailed instructions for each stage can be found in the respective folders.
+To train or test the models, navigate to the `audio_model` directory and run the appropriate scripts. Detailed instructions for each stage can be found in the respective folders.
 
 ## Future Work
 
@@ -111,7 +111,7 @@ To train or test the models, navigate to the `audio_model/` directory and run th
 
 ## License
 
-This project is licensed under the Apache 2.0 License - see the [LICENSE](https://github.com/samarth-shinde/your-repository-name/blob/master/LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](https://github.com/SamarthShinde/Audio_Classification/blob/master/LICENSE) file for details.
 
 ## Contact
 
