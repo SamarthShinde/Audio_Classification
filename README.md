@@ -122,8 +122,3 @@ If you have any questions, feel free to reach out:
 - **GitHub**: [SamarthShinde](https://github.com/SamarthShinde)
 ```
 
-### Key Adjustments:
-- **Removed Unnecessary Text**: Removed the text that was showing the file as a template instead of as the actual README content.
-- **Proper Markdown Formatting**: Ensured that headers (`#`, `##`, `###`), lists (`-`, `*`), and inline code blocks (`` ` ``) are used correctly.
-
-This should render correctly on GitHub. You can update your `README.md` file with this content, and it should look properly formatted in your repository. Let me know if you need any more help!
