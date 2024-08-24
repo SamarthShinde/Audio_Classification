@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.env
+*.wav
+*.mp3
+*.ova
+data/
