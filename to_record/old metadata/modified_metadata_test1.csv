@@ -1,0 +1,552 @@
+slice_file_name,fsID,start,end,salience,fold,classID,class,comment
+ameen_1_driving_on_close_4_190505.wav,703710.0,0.0,10.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_1.wav,947152.0,0.0,10.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_2.wav,154899.0,10.0,20.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_3.wav,777166.0,20.0,30.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_4.wav,234489.0,30.0,40.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_5.wav,602946.0,40.0,50.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_6.wav,926366.0,50.0,60.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_7.wav,917801.0,60.0,70.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_8.wav,677751.0,70.0,80.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_9.wav,973340.0,80.0,90.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_10.wav,142190.0,90.0,100.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_11.wav,170068.0,100.0,110.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_12.wav,314015.0,110.0,120.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_13.wav,426770.0,120.0,130.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_14.wav,428085.0,130.0,140.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_15.wav,798325.0,140.0,150.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_16.wav,545644.0,150.0,160.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_17.wav,208136.0,160.0,170.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_18.wav,970072.0,170.0,180.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_19.wav,431390.0,180.0,190.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_20.wav,721656.0,190.0,200.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_21.wav,842620.0,200.0,210.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_22.wav,329613.0,210.0,220.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_23.wav,748630.0,220.0,230.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_24.wav,298136.0,230.0,240.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_25.wav,712080.0,240.0,250.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_26.wav,117747.0,250.0,260.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_27.wav,729791.0,260.0,270.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_28.wav,358122.0,270.0,280.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_29.wav,569239.0,280.0,290.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_190839_segment_30.wav,221696.0,290.0,300.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_1.wav,520340.0,0.0,10.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_2.wav,903796.0,10.0,20.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_3.wav,344737.0,20.0,30.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_4.wav,522029.0,30.0,40.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_5.wav,966227.0,40.0,50.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_6.wav,785957.0,50.0,60.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_7.wav,200342.0,60.0,70.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_8.wav,704347.0,70.0,80.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_9.wav,101507.0,80.0,90.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_10.wav,288118.0,90.0,100.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_11.wav,510701.0,100.0,110.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_12.wav,327974.0,110.0,120.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_13.wav,783321.0,120.0,130.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_14.wav,235337.0,130.0,140.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_15.wav,951869.0,140.0,150.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_16.wav,886651.0,150.0,160.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_17.wav,254955.0,160.0,170.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_18.wav,644207.0,170.0,180.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_19.wav,469419.0,180.0,190.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_20.wav,187640.0,190.0,200.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_21.wav,725023.0,200.0,210.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_22.wav,484275.0,210.0,220.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_23.wav,801602.0,220.0,230.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_24.wav,528315.0,230.0,240.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_25.wav,356358.0,240.0,250.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_26.wav,334624.0,250.0,260.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_27.wav,124797.0,260.0,270.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_28.wav,999254.0,270.0,280.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_29.wav,510740.0,280.0,290.0,1.0,2024-06-03,1,Male,none
+ameen_1_driving_on_close_4_191431_segment_30.wav,764706.0,290.0,300.0,1.0,2024-06-03,1,Male,none
+drive_low_while_driving_192416_segment_1.wav,241975.0,0.0,10.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_2.wav,663237.0,10.0,20.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_3.wav,498459.0,20.0,30.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_4.wav,532183.0,30.0,40.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_5.wav,787990.0,40.0,50.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_6.wav,399710.0,50.0,60.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_7.wav,144028.0,60.0,70.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_8.wav,581511.0,70.0,80.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_9.wav,728692.0,80.0,90.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_10.wav,426135.0,90.0,100.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_11.wav,733318.0,100.0,110.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_12.wav,226864.0,110.0,120.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_13.wav,490763.0,120.0,130.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_14.wav,310267.0,130.0,140.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_15.wav,885512.0,140.0,150.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_16.wav,638862.0,150.0,160.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_17.wav,399495.0,160.0,170.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_18.wav,424859.0,170.0,180.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_19.wav,399472.0,180.0,190.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_20.wav,950217.0,190.0,200.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_21.wav,822916.0,200.0,210.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_22.wav,465255.0,210.0,220.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_23.wav,638994.0,220.0,230.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_24.wav,636933.0,230.0,240.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_25.wav,966101.0,240.0,250.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_26.wav,670520.0,250.0,260.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_27.wav,340060.0,260.0,270.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_28.wav,236163.0,270.0,280.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_29.wav,186706.0,280.0,290.0,1.0,2024-06-03,3,Traffic,none
+drive_low_while_driving_192416_segment_30.wav,344956.0,290.0,300.0,1.0,2024-06-03,3,Traffic,none
+drive_1_high_while_driving_193039_segment_1.wav,135516.0,0.0,10.0,1.0,2024-06-03,3,Traffic,none
+drive_1_high_while_driving_193039_segment_2.wav,500836.0,10.0,20.0,1.0,2024-06-03,3,Traffic,none
+drive_1_high_while_driving_193039_segment_3.wav,246675.0,20.0,30.0,1.0,2024-06-03,3,Traffic,none
+drive_1_high_while_driving_193039_segment_4.wav,348558.0,30.0,40.0,1.0,2024-06-03,3,Traffic,none
+drive_1_high_while_driving_193039_segment_5.wav,648852.0,40.0,50.0,1.0,2024-06-03,3,Traffic,none
+drive_1_high_while_driving_193039_segment_6.wav,767023.0,50.0,60.0,1.0,2024-06-03,3,Traffic,none
+drive_1_high_while_driving_193039_segment_7.wav,739654.0,60.0,70.0,1.0,2024-06-03,3,Traffic,none
+drive_1_high_while_driving_193039_segment_8.wav,773001.0,70.0,80.0,1.0,2024-06-03,3,Traffic,none
+drive_1_high_while_driving_193039_segment_9.wav,981644.0,80.0,90.0,1.0,2024-06-03,3,Traffic,none
+drive_1_high_while_driving_193039_segment_10.wav,747242.0,90.0,100.0,1.0,2024-06-03,3,Traffic,none
+drive_1_high_while_driving_193039_segment_11.wav,911173.0,100.0,110.0,1.0,2024-06-03,3,Traffic,none
+drive_1_high_while_driving_193039_segment_12.wav,643278.0,110.0,120.0,1.0,2024-06-03,3,Traffic,none
+drive_1_high_while_driving_193039_segment_13.wav,494332.0,120.0,130.0,1.0,2024-06-03,3,Traffic,none
+drive_1_high_while_driving_193039_segment_14.wav,689913.0,130.0,140.0,1.0,2024-06-03,3,Traffic,none
+drive_1_high_while_driving_193039_segment_15.wav,367917.0,140.0,150.0,1.0,2024-06-03,3,Traffic,none
+drive_2_high_while_driving_193820_segment_1.wav,240213.0,0.0,10.0,1.0,2024-06-03,3,Traffic,none
+drive_2_high_while_driving_193820_segment_2.wav,382557.0,10.0,20.0,1.0,2024-06-03,3,Traffic,none
+drive_2_high_while_driving_193820_segment_3.wav,768830.0,20.0,30.0,1.0,2024-06-03,3,Traffic,none
+drive_2_high_while_driving_193820_segment_4.wav,453456.0,30.0,40.0,1.0,2024-06-03,3,Traffic,none
+drive_2_high_while_driving_193820_segment_5.wav,840771.0,40.0,50.0,1.0,2024-06-03,3,Traffic,none
+drive_2_high_while_driving_193820_segment_6.wav,998128.0,50.0,60.0,1.0,2024-06-03,3,Traffic,none
+drive_2_high_while_driving_193820_segment_7.wav,156210.0,60.0,70.0,1.0,2024-06-03,3,Traffic,none
+drive_2_high_while_driving_193820_segment_8.wav,434171.0,70.0,80.0,1.0,2024-06-03,3,Traffic,none
+drive_2_high_while_driving_193820_segment_9.wav,273285.0,80.0,90.0,1.0,2024-06-03,3,Traffic,none
+drive_2_high_while_driving_193820_segment_10.wav,904952.0,90.0,100.0,1.0,2024-06-03,3,Traffic,none
+drive_2_high_while_driving_193820_segment_11.wav,507914.0,100.0,110.0,1.0,2024-06-03,3,Traffic,none
+ameen_3_driving_on_close_4_194943_segment_1.wav,446845.0,0.0,10.0,1.0,2024-06-03,1,Male,none
+ameen_3_driving_on_close_4_194943_segment_2.wav,407798.0,10.0,20.0,1.0,2024-06-03,1,Male,none
+ameen_3_driving_on_close_4_194943_segment_3.wav,714484.0,20.0,30.0,1.0,2024-06-03,1,Male,none
+ameen_3_driving_on_close_4_194943_segment_4.wav,836894.0,30.0,40.0,1.0,2024-06-03,1,Male,none
+ameen_3_driving_on_close_4_194943_segment_5.wav,425504.0,40.0,50.0,1.0,2024-06-03,1,Male,none
+ameen_3_driving_on_close_4_194943_segment_6.wav,164042.0,50.0,60.0,1.0,2024-06-03,1,Male,none
+ameen_3_driving_on_close_4_194943_segment_7.wav,187512.0,60.0,70.0,1.0,2024-06-03,1,Male,none
+ameen_3_driving_on_close_4_194943_segment_8.wav,533900.0,70.0,80.0,1.0,2024-06-03,1,Male,none
+ameen_3_driving_on_close_4_194943_segment_9.wav,760450.0,80.0,90.0,1.0,2024-06-03,1,Male,none
+ameen_3_driving_on_close_4_194943_segment_10.wav,679764.0,90.0,100.0,1.0,2024-06-03,1,Male,none
+test1_parking_on_close_2_150407.wav,955393.0,0.0,10.0,1.0,2024-06-20,1,Male,delete
+avishrant_driving_on_close_5_153521_segment_1.wav,338185.0,0.0,10.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_2.wav,657365.0,10.0,20.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_3.wav,941681.0,20.0,30.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_4.wav,725904.0,30.0,40.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_5.wav,681670.0,40.0,50.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_6.wav,290772.0,50.0,60.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_7.wav,949770.0,60.0,70.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_8.wav,226511.0,70.0,80.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_9.wav,656207.0,80.0,90.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_10.wav,839373.0,90.0,100.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_11.wav,290612.0,100.0,110.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_12.wav,155292.0,110.0,120.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_13.wav,797966.0,120.0,130.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_14.wav,410021.0,130.0,140.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_15.wav,255891.0,140.0,150.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_16.wav,192288.0,150.0,160.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_17.wav,701261.0,160.0,170.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_18.wav,303122.0,170.0,180.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_19.wav,701696.0,180.0,190.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_20.wav,491135.0,190.0,200.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_21.wav,171880.0,200.0,210.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_22.wav,756550.0,210.0,220.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_23.wav,633872.0,220.0,230.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_24.wav,815301.0,230.0,240.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_25.wav,915399.0,240.0,250.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_26.wav,781871.0,250.0,260.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_27.wav,868890.0,260.0,270.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_28.wav,531136.0,270.0,280.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_29.wav,537786.0,280.0,290.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_close_5_153521_segment_30.wav,652041.0,290.0,300.0,1.0,2024-06-20,1,Male,drive 1
+avishrant_driving_on_open_5_154337_segment_1.wav,939403.0,0.0,10.0,1.0,2024-06-20,1,Male,drive 2
+avishrant_driving_on_open_5_154337_segment_2.wav,500053.0,10.0,20.0,1.0,2024-06-20,1,Male,drive 2
+avishrant_driving_on_open_5_154337_segment_3.wav,382004.0,20.0,30.0,1.0,2024-06-20,1,Male,drive 2
+avishrant_driving_on_open_5_154337_segment_4.wav,916977.0,30.0,40.0,1.0,2024-06-20,1,Male,drive 2
+avishrant_driving_on_open_5_154337_segment_5.wav,250615.0,40.0,50.0,1.0,2024-06-20,1,Male,drive 2
+avishrant_driving_on_open_5_154337_segment_6.wav,587510.0,50.0,60.0,1.0,2024-06-20,1,Male,drive 2
+avishrant_driving_on_open_5_154337_segment_7.wav,616577.0,60.0,70.0,1.0,2024-06-20,1,Male,drive 2
+avishrant_driving_on_open_5_154337_segment_8.wav,617130.0,70.0,80.0,1.0,2024-06-20,1,Male,drive 2
+avishrant_driving_on_open_5_154337_segment_9.wav,422200.0,80.0,90.0,1.0,2024-06-20,1,Male,drive 2
+avishrant_driving_on_open_5_154337_segment_10.wav,453222.0,90.0,100.0,1.0,2024-06-20,1,Male,drive 2
+avishrant_driving_on_open_5_154337_segment_11.wav,716760.0,100.0,110.0,1.0,2024-06-20,1,Male,drive 2
+avishrant_driving_on_open_5_154337_segment_12.wav,250437.0,110.0,120.0,1.0,2024-06-20,1,Male,drive 2
+avishrant_driving_on_open_5_154337_segment_13.wav,118876.0,120.0,130.0,1.0,2024-06-20,1,Male,drive 2
+avishrant_driving_on_open_5_154337_segment_14.wav,775445.0,130.0,140.0,1.0,2024-06-20,1,Male,drive 2
+avishrant_driving_on_open_5_154337_segment_15.wav,486307.0,140.0,150.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_open_5_160629_segment_1.wav,852881.0,0.0,10.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_2.wav,628512.0,10.0,20.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_3.wav,143057.0,20.0,30.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_4.wav,563263.0,30.0,40.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_5.wav,269401.0,40.0,50.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_6.wav,181286.0,50.0,60.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_7.wav,938528.0,60.0,70.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_8.wav,429052.0,70.0,80.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_9.wav,890521.0,80.0,90.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_10.wav,627745.0,90.0,100.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_11.wav,449581.0,100.0,110.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_12.wav,103483.0,110.0,120.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_13.wav,497741.0,120.0,130.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_14.wav,634512.0,130.0,140.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_15.wav,336518.0,140.0,150.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_16.wav,506336.0,150.0,160.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_17.wav,779429.0,160.0,170.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_18.wav,362261.0,170.0,180.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_19.wav,878371.0,180.0,190.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_20.wav,307043.0,190.0,200.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_21.wav,939515.0,200.0,210.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_22.wav,119538.0,210.0,220.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_23.wav,943973.0,220.0,230.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_24.wav,195349.0,230.0,240.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_25.wav,622308.0,240.0,250.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_26.wav,556262.0,250.0,260.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_27.wav,232222.0,260.0,270.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_28.wav,645385.0,270.0,280.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_29.wav,596117.0,280.0,290.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_open_5_160629_segment_30.wav,731747.0,290.0,300.0,1.0,2024-06-20,1,Male,drive 1
+ayush_driving_on_close_4_161838_segment_1.wav,418060.0,0.0,10.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_2.wav,759899.0,10.0,20.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_3.wav,869150.0,20.0,30.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_4.wav,257399.0,30.0,40.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_5.wav,163408.0,40.0,50.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_6.wav,868172.0,50.0,60.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_7.wav,494599.0,60.0,70.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_8.wav,651570.0,70.0,80.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_9.wav,104850.0,80.0,90.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_10.wav,936741.0,90.0,100.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_11.wav,706578.0,100.0,110.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_12.wav,691176.0,110.0,120.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_13.wav,762834.0,120.0,130.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_14.wav,984458.0,130.0,140.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_15.wav,104190.0,140.0,150.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_16.wav,314900.0,150.0,160.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_17.wav,705593.0,160.0,170.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_18.wav,656177.0,170.0,180.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_19.wav,445605.0,180.0,190.0,1.0,2024-06-20,1,Male,drive 2
+ayush_driving_on_close_4_161838_segment_20.wav,501587.0,190.0,200.0,1.0,2024-06-20,1,Male,drive 2
+ayush_high_while_driving_163415_segment_1.wav,870149.0,0.0,10.0,1.0,2024-06-20,3,Traffic,drive 3
+ayush_high_while_driving_163415_segment_2.wav,265957.0,10.0,20.0,1.0,2024-06-20,3,Traffic,drive 3
+ayush_high_while_driving_163415_segment_3.wav,322252.0,20.0,30.0,1.0,2024-06-20,3,Traffic,drive 3
+ayush_high_while_driving_163415_segment_4.wav,400667.0,30.0,40.0,1.0,2024-06-20,3,Traffic,drive 3
+ayush_high_while_driving_163415_segment_5.wav,532792.0,40.0,50.0,1.0,2024-06-20,3,Traffic,drive 3
+ayush_high_while_driving_163415_segment_6.wav,294564.0,50.0,60.0,1.0,2024-06-20,3,Traffic,drive 3
+ayush_high_while_driving_163415_segment_7.wav,246864.0,60.0,70.0,1.0,2024-06-20,3,Traffic,drive 3
+ayush_high_while_driving_163415_segment_8.wav,724392.0,70.0,80.0,1.0,2024-06-20,3,Traffic,drive 3
+ayush_high_while_driving_163415_segment_9.wav,882406.0,80.0,90.0,1.0,2024-06-20,3,Traffic,drive 3
+ayush_high_while_driving_163415_segment_10.wav,542208.0,90.0,100.0,1.0,2024-06-20,3,Traffic,drive 3
+ayush_high_while_driving_163415_segment_11.wav,333433.0,100.0,110.0,1.0,2024-06-20,3,Traffic,drive 3
+ayush_high_while_driving_163415_segment_12.wav,571719.0,110.0,120.0,1.0,2024-06-20,3,Traffic,drive 3
+ayush_high_while_driving_163415_segment_13.wav,770883.0,120.0,130.0,1.0,2024-06-20,3,Traffic,drive 3
+ayush_high_while_driving_163415_segment_14.wav,739613.0,130.0,140.0,1.0,2024-06-20,3,Traffic,drive 3
+ayush_high_while_driving_163415_segment_15.wav,563762.0,140.0,150.0,1.0,2024-06-20,3,Traffic,drive 3
+ayush_moderate_while_driving_163814_segment_1.wav,835572.0,0.0,10.0,1.0,2024-06-20,3,Traffic,drive 4
+ayush_moderate_while_driving_163814_segment_2.wav,672738.0,10.0,20.0,1.0,2024-06-20,3,Traffic,drive 4
+ayush_moderate_while_driving_163814_segment_3.wav,213525.0,20.0,30.0,1.0,2024-06-20,3,Traffic,drive 4
+ayush_moderate_while_driving_163814_segment_4.wav,814127.0,30.0,40.0,1.0,2024-06-20,3,Traffic,drive 4
+ayush_moderate_while_driving_163814_segment_5.wav,882911.0,40.0,50.0,1.0,2024-06-20,3,Traffic,drive 4
+ayush_moderate_while_driving_163814_segment_6.wav,937017.0,50.0,60.0,1.0,2024-06-20,3,Traffic,drive 4
+ayush_moderate_while_driving_163814_segment_7.wav,363932.0,60.0,70.0,1.0,2024-06-20,3,Traffic,drive 4
+ayush_moderate_while_driving_163814_segment_8.wav,920068.0,70.0,80.0,1.0,2024-06-20,3,Traffic,drive 4
+ayush_moderate_while_driving_163814_segment_9.wav,946722.0,80.0,90.0,1.0,2024-06-20,3,Traffic,drive 4
+ayush_moderate_while_driving_163814_segment_10.wav,381584.0,90.0,100.0,1.0,2024-06-20,3,Traffic,drive 4
+samarth_test_lab_on_close_3_144616.wav,681382.0,0.0,5.0,0.0,2024-07-08,1,Male,delete
+samarth_test_lab_on_close_3_125334.wav,321114.0,0.0,5.0,0.0,2024-07-10,1,Male,delete
+women_test1_parking_off_close_1_132336_segment_1.wav,151601.0,0.0,10.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_2.wav,548744.0,10.0,20.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_3.wav,646019.0,20.0,30.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_4.wav,976604.0,30.0,40.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_5.wav,949246.0,40.0,50.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_6.wav,405272.0,50.0,60.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_7.wav,268031.0,60.0,70.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_8.wav,211727.0,70.0,80.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_9.wav,820051.0,80.0,90.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_10.wav,680538.0,90.0,100.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_11.wav,366016.0,100.0,110.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_12.wav,913439.0,110.0,120.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_13.wav,342329.0,120.0,130.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_14.wav,435445.0,130.0,140.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_15.wav,663411.0,140.0,150.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_16.wav,259442.0,150.0,160.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_17.wav,425016.0,160.0,170.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_18.wav,672759.0,170.0,180.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_19.wav,954662.0,180.0,190.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_20.wav,381840.0,190.0,200.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_21.wav,227153.0,200.0,210.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_22.wav,272449.0,210.0,220.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_23.wav,149082.0,220.0,230.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_24.wav,298415.0,230.0,240.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_25.wav,973102.0,240.0,250.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_26.wav,362614.0,250.0,260.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_27.wav,650495.0,260.0,270.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_28.wav,501491.0,270.0,280.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_29.wav,470223.0,280.0,290.0,1.0,2024-07-10,2,Female,women_1
+women_test1_parking_off_close_1_132336_segment_30.wav,440321.0,290.0,300.0,1.0,2024-07-10,2,Female,women_1
+women_test2_parking_off_close_1_134109_segment_2.wav,123244.0,10.0,20.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_3.wav,954752.0,20.0,30.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_4.wav,744796.0,30.0,40.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_5.wav,995073.0,40.0,50.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_6.wav,594380.0,50.0,60.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_7.wav,612069.0,60.0,70.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_8.wav,755390.0,70.0,80.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_9.wav,874035.0,80.0,90.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_10.wav,130373.0,90.0,100.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_11.wav,869521.0,100.0,110.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_12.wav,724989.0,110.0,120.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_13.wav,106635.0,120.0,130.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_14.wav,892570.0,130.0,140.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_15.wav,768507.0,140.0,150.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_16.wav,912743.0,150.0,160.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_17.wav,430849.0,160.0,170.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_18.wav,917322.0,170.0,180.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_19.wav,974511.0,180.0,190.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_20.wav,295763.0,190.0,200.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_21.wav,927842.0,200.0,210.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_22.wav,423044.0,210.0,220.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_23.wav,212438.0,220.0,230.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_24.wav,752194.0,230.0,240.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_25.wav,500877.0,240.0,250.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_26.wav,813934.0,250.0,260.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_27.wav,511191.0,260.0,270.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_28.wav,584885.0,270.0,280.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_29.wav,871428.0,280.0,290.0,1.0,2024-07-10,2,Female,women_2
+women_test2_parking_off_close_1_134109_segment_30.wav,397669.0,290.0,300.0,1.0,2024-07-10,2,Female,women_2
+women_test3_parking_off_close_1_135711_segment_1.wav,118459.0,0.0,10.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_2.wav,230390.0,10.0,20.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_3.wav,218057.0,20.0,30.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_4.wav,572336.0,30.0,40.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_5.wav,746337.0,40.0,50.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_6.wav,470738.0,50.0,60.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_7.wav,794082.0,60.0,70.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_8.wav,978005.0,70.0,80.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_9.wav,260676.0,80.0,90.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_10.wav,917194.0,90.0,100.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_11.wav,907099.0,100.0,110.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_12.wav,658377.0,110.0,120.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_13.wav,847309.0,120.0,130.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_14.wav,832891.0,130.0,140.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_15.wav,404914.0,140.0,150.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_16.wav,752655.0,150.0,160.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_17.wav,232861.0,160.0,170.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_18.wav,687026.0,170.0,180.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_19.wav,281407.0,180.0,190.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_20.wav,454744.0,190.0,200.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_21.wav,870513.0,200.0,210.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_22.wav,249114.0,210.0,220.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_23.wav,764470.0,220.0,230.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_24.wav,953014.0,230.0,240.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_25.wav,129675.0,240.0,250.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_26.wav,569264.0,250.0,260.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_27.wav,343475.0,260.0,270.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_28.wav,353470.0,270.0,280.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_29.wav,834788.0,280.0,290.0,1.0,2024-07-10,2,Female,women_3
+women_test3_parking_off_close_1_135711_segment_30.wav,156930.0,290.0,300.0,1.0,2024-07-10,2,Female,women_3
+air_con1_close_140548_segment_2.wav,281131.0,10.0,20.0,1.0,2024-07-10,4,Air_conditioner,air_conditioner_few_wc mic
+air_con1_close_140548_segment_3.wav,815688.0,20.0,30.0,1.0,2024-07-10,4,Air_conditioner,air_conditioner_few_wc mic
+air_con1_close_140548_segment_4.wav,345495.0,30.0,40.0,1.0,2024-07-10,4,Air_conditioner,air_conditioner_few_wc mic
+air_con1_close_140548_segment_5.wav,629408.0,40.0,50.0,1.0,2024-07-10,4,Air_conditioner,air_conditioner_few_wc mic
+air_con1_close_140548_segment_6.wav,241782.0,50.0,60.0,1.0,2024-07-10,4,Air_conditioner,air_conditioner_few_wc mic
+air_con1_close_140548_segment_7.wav,762872.0,60.0,70.0,1.0,2024-07-10,4,Air_conditioner,air_conditioner_few_wc mic
+air_con1_close_140548_segment_8.wav,989181.0,70.0,80.0,1.0,2024-07-10,4,Air_conditioner,air_conditioner_few_wc mic
+air_con1_close_140548_segment_9.wav,516136.0,80.0,90.0,1.0,2024-07-10,4,Air_conditioner,air_conditioner_few_wc mic
+air_con1_close_140548_segment_10.wav,518225.0,90.0,100.0,1.0,2024-07-10,4,Air_conditioner,air_conditioner_few_wc mic
+air_con1_close_140548_segment_11.wav,484231.0,100.0,110.0,1.0,2024-07-10,4,Air_conditioner,air_conditioner_few_wc mic
+air_con1_close_140548_segment_12.wav,405034.0,110.0,120.0,1.0,2024-07-10,4,Air_conditioner,air_conditioner_few_wc mic
+air_con2_close_140950_segment_1.wav,215347.0,0.0,10.0,1.0,2024-07-10,4,Air_conditioner,air_2_speed
+air_con2_close_140950_segment_2.wav,568457.0,10.0,20.0,1.0,2024-07-10,4,Air_conditioner,air_2_speed
+air_con2_close_140950_segment_3.wav,384907.0,20.0,30.0,1.0,2024-07-10,4,Air_conditioner,air_2_speed
+air_con2_close_140950_segment_4.wav,576587.0,30.0,40.0,1.0,2024-07-10,4,Air_conditioner,air_2_speed
+air_con2_close_140950_segment_5.wav,433414.0,40.0,50.0,1.0,2024-07-10,4,Air_conditioner,air_2_speed
+air_con2_close_140950_segment_6.wav,415951.0,50.0,60.0,1.0,2024-07-10,4,Air_conditioner,air_2_speed
+air_con3_open_141159_segment_1.wav,198616.0,0.0,10.0,1.0,2024-07-10,4,Air_conditioner,air_4speed window open
+air_con3_open_141159_segment_2.wav,220239.0,10.0,20.0,1.0,2024-07-10,4,Air_conditioner,air_4speed window open
+air_con3_open_141159_segment_3.wav,247112.0,20.0,30.0,1.0,2024-07-10,4,Air_conditioner,air_4speed window open
+air_con3_open_141159_segment_4.wav,890393.0,30.0,40.0,1.0,2024-07-10,4,Air_conditioner,air_4speed window open
+air_con3_open_141159_segment_5.wav,249891.0,40.0,50.0,1.0,2024-07-10,4,Air_conditioner,air_4speed window open
+air_con3_open_141159_segment_6.wav,853637.0,50.0,60.0,1.0,2024-07-10,4,Air_conditioner,air_4speed window open
+air_con4_close_142421_segment_2.wav,580459.0,10.0,20.0,1.0,2024-07-10,4,Air_conditioner,air_con speed4 windows close
+air_con4_close_142421_segment_3.wav,207412.0,20.0,30.0,1.0,2024-07-10,4,Air_conditioner,air_con speed4 windows close
+air_con4_close_142421_segment_4.wav,314792.0,30.0,40.0,1.0,2024-07-10,4,Air_conditioner,air_con speed4 windows close
+air_con4_close_142421_segment_5.wav,752498.0,40.0,50.0,1.0,2024-07-10,4,Air_conditioner,air_con speed4 windows close
+air_con4_close_142421_segment_6.wav,486691.0,50.0,60.0,1.0,2024-07-10,4,Air_conditioner,air_con speed4 windows close
+thejal_normal_154917.wav,337370.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_160537.wav,313623.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_160645.wav,328656.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_155600.wav,393323.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_154132.wav,378825.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_160032.wav,387255.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_154553.wav,312498.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_155705.wav,397136.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal _normal_153523.wav,360035.0,0.0,5.0,1.0,2024-05-24,2,Female,
+thejal_normal_160431.wav,362797.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_154810.wav,316350.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_155926.wav,303209.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_153947.wav,388273.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_161119.wav,335689.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_161445.wav,356980.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_155131.wav,329402.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_154239.wav,348905.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_161335.wav,371904.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_155236.wav,318790.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_155342.wav,312009.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_160139.wav,362969.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_155023.wav,385858.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_161225.wav,314206.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_153731.wav,323418.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_160304.wav,317435.0,0.0,60.0,1.0,2024-05-24,2,Female,
+thejal_normal_154701.wav,315758.0,0.0,60.0,1.0,2024-05-24,2,Female,
+74507-0-0-13.wav,379729.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-137.wav,328022.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-11.wav,357531.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-10.wav,391298.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74677-0-0-14.wav,365658.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-126.wav,395221.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74677-0-0-10.wav,324520.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-28.wav,361665.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-14.wav,330170.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-15.wav,333980.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-133.wav,371164.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-127.wav,306725.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-8.wav,313314.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74677-0-0-13.wav,329908.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-17.wav,398758.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-16.wav,361606.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-9.wav,382139.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-99.wav,332327.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-5.wav,313081.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-73.wav,396179.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-98.wav,327290.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524.wav,343526.0,0.0,295.984761904762,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507.wav,306491.0,0.0,60.4331292517007,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-6.wav,326252.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-74.wav,362244.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-2.wav,347500.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-63.wav,380488.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-0.wav,352145.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-52.wav,355003.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-92.wav,386150.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-54.wav,339431.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-8.wav,333895.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-4.wav,311872.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-101.wav,322803.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-30.wav,323662.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-27.wav,351119.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-31.wav,309212.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-114.wav,396221.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-128.wav,399918.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-5.wav,310751.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-24.wav,347785.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-18.wav,384697.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-25.wav,324127.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-32.wav,377340.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-6.wav,334031.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74677-0-0-6.wav,343933.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-2.wav,348236.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74677-0-0-2.wav,370079.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-113.wav,357373.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-20.wav,329863.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-23.wav,350982.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74677-0-0-3.wav,370389.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-3.wav,314529.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-1.wav,366892.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-22.wav,329884.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-23.wav,359853.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+73524-0-0-105.wav,376727.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74677-0-0-0.wav,380984.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+74507-0-0-0.wav,325529.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data195969-0-0-21.wav
+195969-0-0-20.wav,392963.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-22.wav,330591.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-26.wav,343956.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-24.wav,361493.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-18.wav,334926.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-19.wav,359029.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-25.wav,353650.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-1.wav,344107.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969.wav,306715.0,0.0,509.467020833333,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-2.wav,354626.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-6.wav,384200.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-7.wav,365656.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-5.wav,369592.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+189991-0-0-7.wav,377895.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-4.wav,364199.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-9.wav,347714.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+202516-0-0-0.wav,368059.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+202516-0-0-1.wav,387784.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-8.wav,336720.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+202516-0-0-3.wav,328217.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+202516-0-0-2.wav,326217.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+202516-0-0-4.wav,361655.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-28.wav,333054.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-14.wav,370919.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-15.wav,368852.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-17.wav,311162.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-12.wav,355710.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-13.wav,336892.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+195969-0-0-10.wav,314468.0,0.0,4.0,1.0,2024-07-10,4,Air_conditioner,Urban sound airconditioner data
+18594-1-0-0.wav,307226.0,0.0,0.435804988662132,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+29932.wav,366526.0,0.0,315.39306122449,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+18594-1-2-0.wav,377002.0,0.0,0.199954648526077,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+14524.wav,329348.0,0.0,52.926458333333294,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+18933-1-0-0.wav,340703.0,0.0,0.305011337868481,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+26177-1-2-0.wav,338844.0,0.0,1.50614512471655,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+26186.wav,374460.0,0.0,0.392108843537415,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+26186-1-0-0.wav,341325.0,0.0,0.39,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+28808-1-1-1.wav,381259.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+18594-1-6-0.wav,398184.0,0.0,0.435668934240363,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+24076-1-0-0.wav,387472.0,0.0,0.99,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+29932-1-1-0.wav,324101.0,0.0,1.44,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+28808-1-1-0.wav,389614.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+26185.wav,376339.0,0.0,0.915714285714286,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+18594-1-4-0.wav,334811.0,0.0,0.215646258503401,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+26177-1-0-0.wav,360268.0,0.0,0.24609977324263,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+17074.wav,301725.0,0.0,34.9956235827664,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+28808-1-0-4.wav,313481.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+18594-1-3-0.wav,378361.0,0.0,0.24,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+28808-1-0-5.wav,330300.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+17074-1-0-0.wav,300392.0,0.0,0.86,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+28808-1-0-7.wav,302119.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+18594-1-1-0.wav,335665.0,0.0,0.63,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+19026-1-0-0.wav,316637.0,0.0,1.03775510204082,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+28808-1-0-6.wav,397588.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+24074-1-0-8.wav,313338.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+28808-1-0-2.wav,313904.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+26177-1-1-0.wav,373401.0,0.0,1.17,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+28808-1-0-3.wav,301809.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+18594-1-5-0.wav,348474.0,0.0,0.319002267573696,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+24074-1-0-9.wav,333090.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+24076-1-1-0.wav,332592.0,0.0,3.15,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+28808-1-0-1.wav,379943.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+17307.wav,357417.0,0.0,114.2989569161,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+26176-1-0-0.wav,306127.0,0.0,1.11,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+28808-1-0-0.wav,384183.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+29932-1-0-0.wav,334988.0,0.0,1.83825396825397,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+24074-1-0-7.wav,333166.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+24074-1-0-10.wav,354621.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+24074-1-0-11.wav,315628.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+24074-1-0-6.wav,323362.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+24074-1-0-4.wav,346266.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+27068-1-0-0.wav,372780.0,0.0,0.216371882086168,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+24074-1-0-13.wav,390589.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+24074-1-0-12.wav,333765.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+17307-1-0-0.wav,313619.0,0.0,0.06,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+14524-1-0-0.wav,313449.0,0.0,0.8496875,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+24074-1-0-5.wav,329020.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+24074-1-0-1.wav,392726.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+24076.wav,337580.0,0.0,73.0964172335601,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+32417.wav,378996.0,0.0,0.9194375,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+24074-1-0-0.wav,353317.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+24074-1-0-2.wav,381033.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+28808-1-0-8.wav,387269.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+17124.wav,347213.0,0.0,0.654489795918367,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+24074.wav,321122.0,0.0,63.8951247165533,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+28808-1-0-9.wav,383688.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+26185-1-1-0.wav,372038.0,0.0,0.356825396825397,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+24074-1-0-3.wav,392552.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+26176.wav,377264.0,0.0,1.9497052154195,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+18933.wav,359636.0,0.0,51.1014285714286,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+26177.wav,393948.0,0.0,3.94090702947846,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+19026.wav,383894.0,0.0,1.92485260770975,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+27068.wav,353727.0,0.0,39.195283446712,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+17124-1-0-0.wav,305032.0,0.0,0.238707482993197,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+28808.wav,380035.0,0.0,34.1391383219955,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+26185-1-0-0.wav,394576.0,0.0,0.33,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+32417-1-0-0.wav,357739.0,0.0,0.345270833333333,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+28808-1-0-10.wav,387852.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data
+28808-1-0-11.wav,380967.0,0.0,4.0,1.0,2024-07-10,3,Traffic,Urban sound traffic data

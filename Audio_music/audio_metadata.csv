@@ -1,0 +1,11 @@
+slice_file_name,fold,start,end,silence_class,music_volume,noise_count,class_type,num_people,comment
+1719325536-5790255_engine_on_closed_music_on_1.wav,2024-08-13,0,10,0,no_music,0,human_voice,1,none
+1719325961-3419156_engine_on_closed_music_on_2.wav,2024-08-13,0,10,0,no_music,0,human_voice,1,none
+1719325163-9304526_engine_on_closed_music_on_2.wav,2024-08-13,0,10,0,no_music,0,human_voice,1,whistling sound of person
+1719324823-9646719_engine_on_closed_music_on_2.wav,2024-08-13,0,10,1,no_music,1,human_voice,2,air blown in mic by person taken as wind noise
+1719325807-15694_engine_on_closed_music_on_1.wav,2024-08-13,0,10,0,no_music,0,human_voice,1,none
+1719325374-1891267_engine_on_closed_music_on_1.wav,2024-08-13,0,10,0,no_music,0,human_voice,1,none
+1719403585-7952385_engine_on_closed_music_on_2.wav,2024-08-13,0,10,1,low,1,human_with_music,3,none
+1719402734-8513398_engine_on_closed_music_on_2.wav,2024-08-13,0,10,1,low,0,music,2,none
+1719401676-0439203_engine_on_closed_music_on_2.wav,2024-08-13,0,10,1,low,0,human_with_music,2,none
+1719396268-450101_engine_on_closed_music_on_1_segment_1.wav,2024-08-13,0,10,1,no_music,3,music,1,only sound of noice

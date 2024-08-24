@@ -1,0 +1,72 @@
+# Data Science and Analysis
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+statsmodels
+
+# Machine Learning and AI
+scikit-learn
+tensorflow
+keras
+torch
+xgboost
+lightgbm
+
+# Natural Language Processing (NLP)
+nltk
+spacy
+gensim
+transformers
+
+# Web Development
+Django
+Flask
+FastAPI
+requests
+beautifulsoup4
+scrapy
+
+# Data Visualization
+plotly
+bokeh
+altair
+folium
+
+# Automation and Scripting
+selenium
+pyautogui
+
+# Databases
+SQLAlchemy
+psycopg2
+pymongo
+
+# Networking
+paramiko
+
+# Testing
+pytest
+tox
+
+# Scientific Computing
+sympy
+numba
+cython
+
+# Cryptography and Security
+cryptography
+PyJWT
+
+# Image and Audio Processing
+Pillow
+opencv-python
+librosa
+pydub
+
+# Concurrency and Parallelism
+tqdm
+
+# Miscellaneous
+click
