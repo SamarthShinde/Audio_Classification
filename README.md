@@ -1,10 +1,3 @@
-# Audio_Classification
-
-Here's an updated version of the `README.md` file based on your latest details:
-
-### README.md Template
-
-```markdown
 # Audio Classification Project
 
 [![GitHub license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/samarth-shinde/your-repository-name/blob/master/LICENSE)
@@ -129,9 +122,8 @@ If you have any questions, feel free to reach out:
 - **GitHub**: [SamarthShinde](https://github.com/SamarthShinde)
 ```
 
-### Key Changes:
-- **License**: Updated to reflect the Apache 2.0 License.
-- **Requirements**: Added a section about the `requirements.txt` file and noted that the project was developed on a MacBook with an M1 chip.
-- **Branch Information**: Clarified that the code is located in the `master` branch and provided instructions on switching to that branch.
+### Key Adjustments:
+- **Removed Unnecessary Text**: Removed the text that was showing the file as a template instead of as the actual README content.
+- **Proper Markdown Formatting**: Ensured that headers (`#`, `##`, `###`), lists (`-`, `*`), and inline code blocks (`` ` ``) are used correctly.
 
-This `README.md` should provide clear guidance to users of your repository, explaining how to set up, run, and understand your project. Let me know if you need any further adjustments!
+This should render correctly on GitHub. You can update your `README.md` file with this content, and it should look properly formatted in your repository. Let me know if you need any more help!
