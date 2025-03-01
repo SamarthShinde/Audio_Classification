@@ -18,8 +18,8 @@ from warnings import filterwarnings
 filterwarnings('ignore')
 
 # Read metadata
-data = pd.read_csv('/Users/samarthshinde/Desktop/ready_codes/Audio_Classification_ML/to_record/metadata_test.csv')
-audioPath = '/Users/samarthshinde/Desktop/ready_codes/Audio_Classification_ML/to_record/audiorec'
+data = pd.read_csv('/Users/samarthshinde/Desktop/Backup/ready_codes/Audio_Classification_ML/to_record/metadata_test.csv')
+audioPath = '/Volumes/T7_Shield/Audio/to_record/audiorec'
 
 # Plot count distribution of classes
 plt.figure(figsize=(10, 4))

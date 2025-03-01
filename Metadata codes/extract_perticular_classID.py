@@ -6,7 +6,7 @@ from pydub import AudioSegment
 # Define the path to the CSV file and the base directory containing the audio files
 csv_path = '/Users/samarthshinde/Desktop/Backup/ready_codes/Audio_Classification_ML/to_record/metadata_test.csv'
 audio_base_dir = '/Volumes/T7_Shield/Audio/to_record/audiorec'
-target_dir = '/Users/samarthshinde/Desktop/Male_Female'
+target_dir = '/Users/samarthshinde/Desktop/mixtures'
 
 # Create the target directory if it does not exist
 os.makedirs(target_dir, exist_ok=True)
@@ -15,7 +15,7 @@ os.makedirs(target_dir, exist_ok=True)
 metadata = pd.read_csv(csv_path)
 
 # Filter the metadata for classID 1 (assuming 1 corresponds to Male and Female classes)
-class_9_metadata = metadata[metadata['classID'] == 2]
+class_9_metadata = metadata[metadata['classID'] == 1]
 
 
 # Function to check if the audio is mono and convert it to stereo if necessary

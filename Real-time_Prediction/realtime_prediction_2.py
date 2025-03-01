@@ -9,11 +9,11 @@ import sys
 import pandas as pd
 
 # Load the trained model
-model_path = '/Users/samarthshinde/Desktop/ready_codes/Audio_Classification_ML/H_file/audio_test4.h5'
+model_path = '/Users/samarthshinde/Desktop/Backup/ready_codes/Audio_Classification_ML/H_file/audio_test7.h5'
 model = load_model(model_path)
 
 # Load the label encoder
-label_encoder_path = '/Users/samarthshinde/Desktop/ready_codes/Audio_Classification_ML/Lable_encoder/audio_test4.pkl'
+label_encoder_path = '/Users/samarthshinde/Desktop/Backup/ready_codes/Audio_Classification_ML/Lable_encoder/audio_test7.pkl'
 with open(label_encoder_path, 'rb') as f:
     encoder = pickle.load(f)
 

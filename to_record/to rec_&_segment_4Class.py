@@ -7,7 +7,7 @@ import csv
 import random
 
 # Enter duration to record the audio in seconds
-duration = 700
+duration = 20
 
 metadata_file = "metadata_test.csv"
 
